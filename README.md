@@ -1,10 +1,11 @@
 # ShopifyElixir
 
-**TODO: Add description**
+**WIP**
+
+- [x] Authentication functions
+- [ ] Authentication plug
 
 ## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
 
   1. Add shopify_elixir to your list of dependencies in `mix.exs`:
 
